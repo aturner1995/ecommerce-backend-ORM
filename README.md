@@ -17,7 +17,8 @@ A back end for an e-commerce site with Express.js API and Sequelize to interact 
 clone or fork the repo and run npm install
 
 ## Usage ⚙️
-* To run the program -
+* To run the program - source schema.sql, node seeds/index.js & node server.js
+* Instructional Video - https://user-images.githubusercontent.com/120421650/233206393-bdf10f2d-f016-47db-8dc9-35b79f1cf976.mp4
 
 ## Contribution 🙏
 Please email the repo user for instructions
